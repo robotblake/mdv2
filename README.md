@@ -6,3 +6,5 @@ This repository contains:
 * The design system for building new front-end components
 
 A thing.
+
+And another.
